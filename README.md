@@ -1,0 +1,2 @@
+# Flash_Helper_Service_Killer
+Antivirus software for Adware_FlashHelper_Service.
