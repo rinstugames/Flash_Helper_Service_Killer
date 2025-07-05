@@ -21,7 +21,7 @@ Adware:FlashHelperService Killer is a professional, open-source tool designed to
 - No need for Python installed (standalone EXE provided)
 
 ## Installation
-1. Download the latest release from the [Releases](#) page or obtain `FlashHelperService_Killer.exe` from a trusted source.
+1. Download the latest release from the [Releases] page or obtain `FlashHelperService_Killer.exe` from a trusted source.
 2. Place the EXE in any folder (no installation required).
 3. (Optional) Verify the digital signature and hash for security.
 
