@@ -27,7 +27,7 @@ Adware:FlashHelperService Killer is a professional, open-source tool designed to
 
 ## Usage
 1. **Run as Administrator:**
-   - Right-click `Adware_FlashHelperService_Killer.exe` and select "Run as administrator".
+   - Right-click `FlashHelperService_Killer.exe` and select "Run as administrator".
 2. **Start Cleaning:**
    - Click the "开始查杀" (Start Cleaning) button in the GUI.
    - Follow on-screen instructions and prompts.
